@@ -1,0 +1,97 @@
+entity framework 3.1.3
+
+criando solução
+dotnet new sln --name Bear.SSJ
+
+criando camada de aplicação
+dotnet new webapi -n application -o APP.Application
+
+
+relacionando camadas solução dentro da pasta src
+
+dotnet sln add .\APP.Application\
+dotnet sln add .\APP.Domain\
+dotnet sln add .\APP.CrossCutting\
+dotnet sln add .\APP.Data\
+dotnet sln add .\APP.Service\
+
+Criando dominio
+dotnet new classlib -n Domain -o APP.Domain -f netcoreapp3.1
+
+Criando service
+dotnet new classlib -n Service -f netcoreapp3.1 -o APP.Service
+
+Criando infraestrutura
+	Criando CrossCutting
+	dotnet new classlib -n CrossCutting -f netcoreapp3.1 -o APP.CrossCutting
+
+	Criando Data
+	dotnet new classlib -n Data -f netcoreapp3.1 -o APP.Data
+
+
+
+
+
+Instalando ef e sql (no repositorio data
+
+)
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.16" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+
+
+comando para instalar o e ef (deve ser execuutado no repositorio data )]
+
+dotnet tool install --global dotnet-ef
+
+
+dotnet add .\APP.Data\ reference .\APP.Domain\
+
+
+
+
+
+
+executando migração
+dotnet ef migrations add first
+dotnet ef database update
+
+
+
+Criando relacionamento de service
+dotnet add .\APP.Service\ reference .\APP.Domain\
+dotnet add .\APP.Service\ reference .\APP.Data\
+dotnet add .\APP.Service\ reference .\APP.CrossCutting\
+
+
+continuação do curso
+
+
+referencias do application
+dotnet add .\APP.Application\ reference .\APP.Domain\
+dotnet add .\APP.Application\ reference .\APP.Service\
+dotnet add .\APP.Application\ reference .\APP.CrossCutting\
+
+
+
+referencias do CrossCutting
+dotnet add .\APP.CrossCutting\ reference .\APP.Domain\
+dotnet add .\APP.CrossCutting\ reference .\APP.Service\
+dotnet add .\APP.CrossCutting\ reference .\APP.Data\
+
+
+
+
+
+comando para rodar no CrossCutting (injeção de dependencia)
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection --version 6.1.1
