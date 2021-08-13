@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMTS4dJnLp9pdGx56coHgk360XdJp3L4k9g/+AfGk7AXyAsFKNWbTwKoLCN0LH3DYEpHF3AjZYsbLnn68qDsaw==",
+  "dgSpecHash": "8qcv/p9ddwVDAVSDO42t3PXFWoTwcZpiGeR1Twv5BXcQLbEaoSwanDKpvfHbrLII7hi6VyWIzJoM/UK0clhBAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santc\\Project\\src\\APP.Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

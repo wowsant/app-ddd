@@ -5390,11 +5390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santc\\Project\\src\\APP.Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\santc\\Project\\src\\APP.Service\\Service.csproj",
+      "projectPath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\santc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santc\\Project\\src\\APP.Service\\obj\\",
+      "outputPath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5411,11 +5411,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\santc\\Project\\src\\APP.Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\santc\\Project\\src\\APP.Data\\Data.csproj"
+            "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Data\\Data.csproj"
             },
-            "C:\\Users\\santc\\Project\\src\\APP.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\santc\\Project\\src\\APP.Domain\\Domain.csproj"
+            "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Domain\\Domain.csproj"
             }
           }
         }

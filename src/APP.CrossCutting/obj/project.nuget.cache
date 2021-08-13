@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hGinLnK1trV33AhUIu0pqia3dECMG0TA4L73+hMBn6kRFEqVXs4Ko/OkP2GU2cNziuKZYLbKPGSMFnX5KnJoHQ==",
+  "dgSpecHash": "h3fI3Bb5/lIR1k/38i/YuqLxqMdab5ux6tePTr/t0HbVE831KpLtYgr2ly9pD6wV0cL/KVkxogYDbAuw8nzApA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santc\\Project\\src\\APP.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santc\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

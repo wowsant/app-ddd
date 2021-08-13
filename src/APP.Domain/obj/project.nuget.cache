@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gsg2DvxJA0RqRA6jhvja1+p+sPB9roZDaqfb3xtZgVIjAUpw/pDOPs5deHp9nGjU5xaM+kmVmQCMNElorFO/hw==",
+  "dgSpecHash": "2zi3MGB95JQh1Xrh7nvRh86XG7EDE3VSs1J8gXQMSTKI2ukf6+aWFZq1hVCKUTVdlBTGtmEzO2GvKhlPK9Z29w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santc\\Project\\src\\APP.Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
