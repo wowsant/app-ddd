@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace APP.Application.Controllers
 {
+    [Route("api/controller")]
+    [ApiController]
     public class LoginController : ControllerBase
     {
         private ILoginService _service;
