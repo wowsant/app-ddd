@@ -274,3 +274,4 @@ C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

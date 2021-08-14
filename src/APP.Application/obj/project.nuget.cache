@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "84WYslphpFUp0Nk0FRoaIoBAgSD7MFqlQH0xZtKi5KACwc0lsLQpaUciTka6Ku3rdW/DBznF5uZT5nksHntYzA==",
+  "dgSpecHash": "Xp2MHtKhKwlN8naay0KCXf3nhJidubYgANI/iw7t4zp7yrbSnYQnlcn6qW+xxAQJJjVN5i63k8dlqiS7Ewr8+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\santc\\Project\\aspnet\\app-ddd\\src\\APP.Application\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santc\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\santc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\santc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
