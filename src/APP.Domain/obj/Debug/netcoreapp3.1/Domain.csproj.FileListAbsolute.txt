@@ -38,7 +38,6 @@ C:\Users\santc\Project\src\APP.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\bin\Debug\netcoreapp3.1\Domain.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
-C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs

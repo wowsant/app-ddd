@@ -205,6 +205,7 @@ C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\application.pdb
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -274,4 +275,3 @@ C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-C:\Users\santc\Project\aspnet\app-ddd\src\APP.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
